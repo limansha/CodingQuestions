@@ -2,6 +2,7 @@ package com.graphs.bfs;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -152,6 +153,7 @@ public class isBiparteGraph {
 					return false;
 				}
 			}
+			
 		}
 
 		return true;

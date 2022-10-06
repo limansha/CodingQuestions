@@ -1,5 +1,7 @@
 package com.ds.slidingwindow;
 
+import java.util.HashMap;
+
 public class Questn1 {
 	static int res=0;
 	public static void main(String[] args) {
@@ -53,6 +55,7 @@ public class Questn1 {
  		}
 		res +=value;
 		findMaxScore(arr,newStart,newEnd);
+		
 	}
 
 }
