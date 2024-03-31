@@ -1,3 +1,5 @@
+package com.dsa.intrestingQuestns;
+
 import java.util.*;
 import java.io.*;
 import java.lang.*;
